@@ -39,7 +39,8 @@
     $(LOCAL_DIR)/hammerhead/pa_hammerhead.mk \
     $(LOCAL_DIR)/marlin/pa_marlin.mk \
     $(LOCAL_DIR)/sailfish/pa_sailfish.mk \
-    $(LOCAL_DIR)/shamu/pa_shamu.mk
+    $(LOCAL_DIR)/shamu/pa_shamu.mk \
+    $(LOCAL_DIR)/taimen/pa_taimen.mk
 
 # SONY OpenDevices
 # Loire 8956

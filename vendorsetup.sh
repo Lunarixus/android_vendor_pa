@@ -25,6 +25,7 @@ add_lunch_combo pa_hammerhead-userdebug
 add_lunch_combo pa_marlin-userdebug
 add_lunch_combo pa_sailfish-userdebug
 add_lunch_combo pa_shamu-userdebug
+add_lunch_combo pa_taimen-userdebug
 
 # SONY OpenDevices
 # Loire
