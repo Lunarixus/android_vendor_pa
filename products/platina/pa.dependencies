@@ -1,11 +1,5 @@
 [
     {
-        "target_path":  "vendor/qcom/opensource/commonsys_bluetooth_ext",
-        "repository":   "AOSPA/android_vendor_qcom_opensource_commonsys_bluetooth_ext",
-        "remote":       "aospa",
-        "revision":     "pie"
-    },
-    {
         "target_path":  "hardware/qcom/audio",
         "repository":   "AOSPA/android_hardware_qcom_audio",
         "remote":       "aospa",
