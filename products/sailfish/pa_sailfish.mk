@@ -37,8 +37,8 @@ PRODUCT_MANUFACTURER := Google
 PRODUCT_RESTRICT_VENDOR_FILES := false
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=sailfish \
-    BUILD_FINGERPRINT=google/sailfish/sailfish:7.1.2/NZH54D/4146044:user/release-keys \
-    PRIVATE_BUILD_DESC="sailfish-user 7.1.2 NZH54D 4146044 release-keys"
+    BUILD_FINGERPRINT= google/sailfish/sailfish:9/PQ2A.190205.003/5180536:user/release-keys\
+    PRIVATE_BUILD_DESC="sailfish-user 9 PQ2A.190205.003 5180536 release-keys"
 
 # Paranoid Android platform
 include vendor/pa/main.mk
