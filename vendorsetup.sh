@@ -18,6 +18,7 @@ add_lunch_combo pa_platina-userdebug
 # Samsung Exynos devices
 add_lunch_combo pa_gts210ltexx-userdebug
 add_lunch_combo pa_gts210wifi-userdebug
+add_lunch_combo pa_zerofltexx-userdebug
 
 # AOSP
 add_lunch_combo pa_angler-userdebug

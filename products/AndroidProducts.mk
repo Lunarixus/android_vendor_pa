@@ -31,7 +31,8 @@
 # Samsung Exynos family
     PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/gts210ltexx/pa_gts210ltexx.mk \
-    $(LOCAL_DIR)/gts210wifi/pa_gts210wifi.mk
+    $(LOCAL_DIR)/gts210wifi/pa_gts210wifi.mk \
+    $(LOCAL_DIR)/zerofltexx/pa_zerofltexx.mk
 
 # AOSP
     PRODUCT_MAKEFILES += \

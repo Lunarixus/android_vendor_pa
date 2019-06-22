@@ -1,0 +1,56 @@
+[
+    {
+        "target_path":  "device/samsung/zerofltexx",
+        "repository":   "enesuzun2002/android_device_samsung_zerofltexx",
+        "remote":       "github",
+        "revision":     "nx-9.0"
+    },
+    {
+        "target_path":  "device/samsung/zero-common",
+        "repository":   "enesuzun2002/android_device_samsung_zero-common",
+        "remote":       "github",
+        "revision":     "nx-9.0"
+    },
+    {
+        "target_path":  "hardware/samsung_slsi-cm/exynos7420",
+        "repository":   "Lunarixus/android_hardware_samsung_slsi-cm_exynos7420",
+        "remote":       "github",
+        "revision":     "nx-9.0"
+    },
+    {
+        "target_path":  "hardware/samsung",
+        "repository":   "Lunarixus/android_hardware_samsung",
+        "remote":       "github",
+        "revision":     "nx-9.0"
+    },
+    {
+        "target_path":  "hardware/samsung_slsi-cm/openmax",
+        "repository":   "Lunarixus/android_hardware_samsung_slsi-cm_openmax",
+        "remote":       "github",
+        "revision":     "nx-9.0"
+    },
+    {
+        "target_path":  "hardware/samsung_slsi-cm/exynos5",
+        "repository":   "Lunarixus/android_hardware_samsung_slsi-cm_exynos5",
+        "remote":       "github",
+        "revision":     "nx-9.0"
+    },
+    {
+        "target_path":  "hardware/samsung_slsi-cm/exynos",
+        "repository":   "Lunarixus/android_hardware_samsung_slsi-cm_exynos",
+        "remote":       "github",
+        "revision":     "nx-9.0"
+    },
+    {
+        "target_path":  "kernel/samsung/exynos7420",
+        "repository":   "enesuzun2002/android_kernel_samsung_exynos7420",
+        "remote":       "github",
+        "revision":     "nx-9.0"
+    },
+    {
+        "target_path":  "vendor/samsung/",
+        "repository":   "Lunarixus/proprietary_vendor_samsung",
+        "remote":       "github",
+        "revision":     "master"
+    }
+]
